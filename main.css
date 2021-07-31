@@ -2,6 +2,7 @@
     margin: auto;
     font-size: large;
     text-decoration: none;
+    font-family: 'Noto Sans JP', arial, sans-serif;
 }
 
 .spacer {
@@ -44,6 +45,8 @@ button {
     padding: 10px 15px;
     margin: 10px auto;
     display: block;
+    font-weight: bold;
+    cursor: pointer;
 }
 
 a :hover {
@@ -53,4 +56,5 @@ a :hover {
 
 p {
     text-align: center;
+    font-size: larger;
 }
