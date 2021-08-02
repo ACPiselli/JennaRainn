@@ -5,18 +5,12 @@
     font-family: 'Noto Sans JP', arial, sans-serif;
 }
 
-.spacer {
-    display: block;
-    height:40px;
-    width: 100%;
-    background: rgb(229, 143, 255);
-}
-
 .background {
     height: 75%;
     margin-bottom: 50px;
     display: block;
     background-image: linear-gradient(rgb(229, 143, 255), white);
+    padding-top: 40px;
 }
 
 
