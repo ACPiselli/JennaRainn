@@ -13,10 +13,10 @@
 }
 
 .background {
-    background: rgb(229, 143, 255);
-    height: 315px;
+    height: 75%;
     margin-bottom: 50px;
     display: block;
+    background-image: linear-gradient(rgb(229, 143, 255), white);
 }
 
 
