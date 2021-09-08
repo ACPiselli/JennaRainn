@@ -2,14 +2,39 @@
     margin: auto;
     font-size: large;
     text-decoration: none;
-    font-family: 'Noto Sans JP', arial, sans-serif;
+    font-family: 'Urbanist', arial sans-serif;
 }
 
 .background {
+    background: #00aff0;
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    z-index: -1;
+}
+
+.topwrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.jenna {
+    font-weight: bold;
+    font-size: x-large;
+    padding-left: 20px;
+}
+
+.rainn {
+    font-weight: bold;
+    font-size: x-large;
+    padding-right: 20px;
+}
+
+.pic {
     height: 75%;
     margin-bottom: 50px;
     display: block;
-    background-image: linear-gradient(rgb(229, 143, 255), white);
     padding-top: 40px;
 }
 
@@ -33,7 +58,7 @@ img {
 
 
 button {
-    background: rgb(229, 143, 255);
+    background: rgb(255, 255, 255);
     text-align: center;
     border: 1px solid black;
     padding: 10px 15px;
