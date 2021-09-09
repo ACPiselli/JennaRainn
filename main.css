@@ -33,6 +33,7 @@
 
 .pic {
     height: 75%;
+    width: 200px;
     margin-bottom: 50px;
     display: block;
     padding-top: 40px;
@@ -45,27 +46,20 @@ img {
 
 .pic1 {
     width: 200px;
-}
-
-.pic2 {
-    width: 350px;
-}
-
-.pic3 {
-    width: 300px;
-    margin: 10px auto 100px auto;
-}
-
-
-button {
-    background: rgb(255, 255, 255);
-    text-align: center;
     border: 1px solid black;
-    padding: 10px 15px;
-    margin: 10px auto;
-    display: block;
+}
+
+a {
+    background: white;
+    border: 1px solid black;
+    font-size: large;
     font-weight: bold;
-    cursor: pointer;
+    text-decoration: none;
+    margin: 30px auto;
+    width: 30vw;
+    display: block;
+    text-align: center;
+    padding: 10px;
 }
 
 a :hover {
