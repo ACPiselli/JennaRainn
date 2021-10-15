@@ -71,5 +71,7 @@ a:hover {
 
 p {
     text-align: center;
-    font-size: larger;
+    font-size: x-small;
+    color: rgb(187, 0, 0);
 }
+
