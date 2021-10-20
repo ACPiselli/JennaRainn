@@ -71,7 +71,17 @@ a:hover {
 
 p {
     text-align: center;
-    font-size: x-small;
+    font-size: large;
     color: rgb(187, 0, 0);
 }
 
+.logo {
+    width: 30px;
+}
+
+.vip {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
