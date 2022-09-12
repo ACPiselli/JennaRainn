@@ -6,7 +6,7 @@
 }
 
 .background {
-    background: rgb(15, 15, 15);
+    background: linear-gradient(180deg,#000000,#300000);
     position: fixed;
     height: 100vh;
     width: 100vw;
@@ -14,7 +14,7 @@
 }
 
 .topwrapper {
-    width: 100%;
+    width: 20%;
     display: flex;
     justify-content: space-around;
 }
@@ -22,14 +22,18 @@
 .jenna {
     font-weight: bold;
     font-size: x-large;
-    padding-left: 20px;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 30px;
     color: red;
 }
 
 .rainn {
     font-weight: bold;
     font-size: x-large;
-    padding-right: 20px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 40px;
     color: red;
 }
 
@@ -58,7 +62,7 @@ a {
     font-weight: bold;
     text-decoration: none;
     margin: 30px auto;
-    width: 50vw;
+    width: 300px;
     display: block;
     text-align: center;
     padding: 10px;
