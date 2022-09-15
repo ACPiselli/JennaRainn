@@ -37,6 +37,7 @@
 }
 
 .pic1 {
+    margin-bottom: 1em;
     height: 75%;
     width: 200px;
     display: block;
@@ -74,7 +75,7 @@ p > a {
   padding: .6em;
   max-width: 300px;
   text-align: center;
-  margin-left: 3em;
+  margin-left: 4.1em;
 }
 
 a {
